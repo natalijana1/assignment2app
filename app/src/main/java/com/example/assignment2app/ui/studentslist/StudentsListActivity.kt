@@ -1,4 +1,4 @@
-package com.example.assignment2apptemp.ui.studentslist
+package com.example.assignment2app.ui.studentslist
 
 import android.content.Intent
 import android.os.Bundle
